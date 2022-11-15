@@ -296,6 +296,9 @@ h1 span {
     width: 300px;
     top: 22vh;
 }
+.social-media span{
+    margin: 0 5px;
+}
 #Contact a img {
     height: 30px;
     width: 30px;
